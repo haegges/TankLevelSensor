@@ -1,0 +1,7 @@
+License check of included libraries etc.
+ 
+ESP8266WiFi.h
+GNU Lesser General Public License v2.1
+ 
+PubSubClient.h
+MIT License
